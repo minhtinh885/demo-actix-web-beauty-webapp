@@ -2,6 +2,8 @@
 Demo written by Nuxtjs and Actix-web
 
 
+run script db for mysql 8.* in ./api/db
+
 API dev: (localhost:3001)
 - cargo run
 
