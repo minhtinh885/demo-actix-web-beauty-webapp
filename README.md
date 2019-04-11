@@ -8,6 +8,6 @@ API dev: (localhost:3001)
 - cargo run
 
 
-Webapp: NUXTjs require (localhost:3000)
+Webapp: NUXTjs is required (localhost:3000)
 - npm install
 - npm run dev
